@@ -1,8 +1,9 @@
 #----------------------------------------------------------------------------------
 
 #The codes for training autoencoders for categorical features and neural networks pre-trained with categorical autoencoders
-#Based on the paper by £. Delong, A. Kozak, The use of autoencoders for training neural networks with mixed categorical and numerical features
+#Based on the paper by Â£. Delong, A. Kozak, The use of autoencoders for training neural networks with mixed categorical and numerical features
 #The paper is available on https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3952470
+#The autoencoder softmax_all has been removed from the new version of our paper and only the autoencoder softmax_per_feat is used in experiments
 
 #----------------------------------------------------------------------------------
 
